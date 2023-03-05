@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\hometask77\hometask77\bin\Debug\net6.0\hometask77.exe
+C:\Users\User\Desktop\hometask77\hometask77\bin\Debug\net6.0\hometask77.deps.json
+C:\Users\User\Desktop\hometask77\hometask77\bin\Debug\net6.0\hometask77.runtimeconfig.json
+C:\Users\User\Desktop\hometask77\hometask77\bin\Debug\net6.0\hometask77.dll
+C:\Users\User\Desktop\hometask77\hometask77\bin\Debug\net6.0\hometask77.pdb
+C:\Users\User\Desktop\hometask77\hometask77\obj\Debug\net6.0\hometask77.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\hometask77\hometask77\obj\Debug\net6.0\hometask77.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\hometask77\hometask77\obj\Debug\net6.0\hometask77.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\hometask77\hometask77\obj\Debug\net6.0\hometask77.AssemblyInfo.cs
+C:\Users\User\Desktop\hometask77\hometask77\obj\Debug\net6.0\hometask77.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\hometask77\hometask77\obj\Debug\net6.0\hometask77.dll
+C:\Users\User\Desktop\hometask77\hometask77\obj\Debug\net6.0\refint\hometask77.dll
+C:\Users\User\Desktop\hometask77\hometask77\obj\Debug\net6.0\hometask77.pdb
+C:\Users\User\Desktop\hometask77\hometask77\obj\Debug\net6.0\hometask77.genruntimeconfig.cache
+C:\Users\User\Desktop\hometask77\hometask77\obj\Debug\net6.0\ref\hometask77.dll
